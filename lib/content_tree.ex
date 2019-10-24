@@ -56,7 +56,8 @@ defmodule ContentTree do
             title: "Going Aboard",
             content_topic_id: "c165f9ab-2536-4d73-b684-4cfe851caf66"
           }
-        ]
+        ],
+        children: []
       }
     ]
   end
